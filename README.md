@@ -1,1 +1,1 @@
-notes-cli apps
+# Notes CLI App
